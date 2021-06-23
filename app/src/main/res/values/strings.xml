@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">activity_cycle</string>
+    <string name="message">Please pick one of the  following orders: </string>
+    <string name="btn_choose">Choose One</string>
+    <string name="btn_order">Order</string>
+    <string-array name="FruitItems">
+        <item>Banana</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+        <item>Grapes</item>
+        <item>Apple</item>
+        <item>Peach</item>
+        <item>Durian</item>
+
+    </string-array>
+
+</resources>
